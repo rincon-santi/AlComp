@@ -8,7 +8,7 @@ Mcd en un D.F.U.
 
 
 Inverso de un elemento en un cuerpo finito.
-	p,f irreducibles en Zp[x] -> K:=Zp[x] / (f(x)) |K|=p^(deg f)
+p,f irreducibles en Zp[x] -> K:=Zp[x] / (f(x)) |K|=p^(deg f)
 
 
 
@@ -18,7 +18,7 @@ Logaritmo discreto en cuerpos Fq[x]/(f(x))
 
 
 
-Algoritmo de factorización de un polinomio en cuerpo finito parte 1, 2 y 3.
+Algoritmo de factorizacion de un polinomio en cuerpo finito parte 1, 2 y 3.
 
 Algoritmo de factorizacion de Berlekamp en cuerpos finitos 
 
